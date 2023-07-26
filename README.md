@@ -12,8 +12,3 @@ Before running the program, make sure you have the following installed on your s
 
 - Python 3.x
 - colorama library (install using `pip install colorama`)
-
-### Installation
-
-1. Clone this repository to your local machine.
-2. Install the required dependencies using the following command:
