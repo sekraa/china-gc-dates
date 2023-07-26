@@ -1,19 +1,19 @@
-# china-gc-dates
-Program that helps to determine the days spent out of a country (China) based on provided exit and entry dates in a CSV file for the last 5 years
+# China Travel Days Calculator
 
-Example:
+The China Travel Days Calculator is a Python program that analyzes how many days a person spends in or out of China for the past five years. The program takes input in the form of entry and exit dates from a CSV file and calculates the number of days spent in China for each of the five years before a specified application date. It provides three different scenarios for calculating the days spent in China based on the provided entry and exit dates.
 
-Application Date: 2023-07-27
+This may be useful if someone likes to apply for a China Permanent Residence also know as China Green Card.
 
-Scenario 1:
+## Getting Started
 
-Year 1 (2023-07-27 - 2022-07-27): 8 days out
+### Prerequisites
 
-Year 2 (2022-07-27 - 2021-07-27): 0 days out
+Before running the program, make sure you have the following installed on your system:
 
-Year 3 (2021-07-27 - 2020-07-26): 30 days out
+- Python 3.x
+- colorama library (install using `pip install colorama`)
 
-Year 4 (2020-07-26 - 2019-07-26): 0 days out
+### Installation
 
-Year 5 (2019-07-26 - 2018-07-26): 0 days out
-
+1. Clone this repository to your local machine.
+2. Install the required dependencies using the following command:
