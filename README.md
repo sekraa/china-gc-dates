@@ -1,4 +1,4 @@
-# China Travel Days Calculator
+# China Travel Days Calculator for Green Card Applications
 
 The China Travel Days Calculator is a Python program that analyzes how many days a person spends in or out of China for the past five years. The program takes input in the form of entry and exit dates from a CSV file and calculates the number of days spent in China for each of the five years before a specified application date. It provides three different scenarios for calculating the days spent in China based on the provided entry and exit dates.
 
